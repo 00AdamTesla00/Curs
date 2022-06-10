@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Users\nserj\Desktop\The_final_one\src\parser.py", line 1053, in <module>
+    testYacc(inputFile)
+  File "C:\Users\nserj\Desktop\The_final_one\src\parser.py", line 990, in testYacc
+    program = open(inputFile).read()
+FileNotFoundError: [Errno 2] No such file or directory: 'test/'
